@@ -9,7 +9,7 @@ body {
 }
 
 .font-primary {
-    color: #00ABAE;
+    color: #d084fee4;
 }
 
 .title-icon {
@@ -40,7 +40,7 @@ ABOUT
 
 #about {
     margin: 60px auto;
-    max-width: 600px;
+    max-width: 800px;
     text-align: center;
 }
 
@@ -63,8 +63,9 @@ ABOUT
 
 #about .skills {
     font-size: 14px;
-    color: #00ABAE; 
+    color: #d084fee4; 
     margin-bottom: 10px;
+    font-weight: bold;
 }
 
 #about .email {
@@ -89,7 +90,11 @@ PROJECT
 
 #project {
     margin: 60px auto;
+    padding: 30px;
     width: 80%;
+    border-color: lightblue;
+    border-style: double;
+    border-width: 15px;
 
 }
 
