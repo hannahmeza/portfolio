@@ -110,3 +110,7 @@ PROJECT
 #project .card-title {
     font-weight: bold;
 }
+
+a.btn.btn-secondary {
+    margin: 2px;
+}
